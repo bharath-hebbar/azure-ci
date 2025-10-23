@@ -12,6 +12,14 @@ export default function Home() {
           height={38}
           priority
         />
+        <Image
+          className="w-full h-auto"
+          src="/images/image.jpeg"
+          alt="Next.js logo"
+          width={3999}
+          height={2666}
+          priority
+        />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
             Get started by editing{" "}
